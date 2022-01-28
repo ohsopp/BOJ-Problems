@@ -1,5 +1,5 @@
 
-// 백준 1406 에디터
+// baekjoon 1406
 
 #include <iostream>
 #include <list>
