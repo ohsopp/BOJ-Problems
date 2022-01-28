@@ -34,7 +34,7 @@ int main() {
 			if (it != l.end()) it++;
 		}
 		else if (c == 'B') {
-			if (it != l.begin()) l.erase(--it);
+			if (it != l.begin()) it = l.erase(--it);
 		}
 		else if (c == 'P') {
 			char x;
