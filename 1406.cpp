@@ -10,7 +10,6 @@ string s;
 int n;
 
 int main() {
-
 	list<char> l;
 	list<char>::iterator it = l.begin();
 
