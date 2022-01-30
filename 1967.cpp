@@ -35,7 +35,7 @@ int main() {
         tree[a].push_back(b);
         tree[b].push_back(a);
         
-	// 각각에 가중치 추가
+	// 각각에 가중치 저장
         cost[a].push_back(c);
         cost[b].push_back(c);
     }
