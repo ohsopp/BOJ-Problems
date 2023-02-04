@@ -2,7 +2,6 @@
 // 백준 2477 참외밭
 
 #include <iostream>
-
 using namespace std;
 
 pair<int, int> ary[6];
